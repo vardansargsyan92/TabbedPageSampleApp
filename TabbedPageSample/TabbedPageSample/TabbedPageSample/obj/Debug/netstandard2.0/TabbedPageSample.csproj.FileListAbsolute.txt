@@ -1,0 +1,14 @@
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\bin\Debug\netstandard2.0\TabbedPageSample.deps.json
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\bin\Debug\netstandard2.0\TabbedPageSample.dll
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\bin\Debug\netstandard2.0\ref\TabbedPageSample.dll
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\bin\Debug\netstandard2.0\TabbedPageSample.pdb
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\obj\Debug\netstandard2.0\TabbedPageSample.csprojAssemblyReference.cache
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\obj\Debug\netstandard2.0\TabbedPageSample.AssemblyInfoInputs.cache
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\obj\Debug\netstandard2.0\TabbedPageSample.AssemblyInfo.cs
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\obj\Debug\netstandard2.0\TabbedPageSample.csproj.CoreCompileInputs.cache
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\obj\Debug\netstandard2.0\TabbedPageSample.dll
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\obj\Debug\netstandard2.0\ref\TabbedPageSample.dll
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample\obj\Debug\netstandard2.0\TabbedPageSample.pdb

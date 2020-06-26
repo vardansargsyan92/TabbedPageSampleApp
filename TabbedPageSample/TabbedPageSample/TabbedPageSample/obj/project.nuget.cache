@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "rW5yeN15BbrmrLO5Ik69hcFDzBibv+qVxw0JMOqdW6FzLCbuj5MDY4Igu68KCwnRyy23HVWwmGw8uO/R0/Zi7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\varda\\Desktop\\TabbedPageIssue\\TabbedPageSampleApp\\TabbedPageSample\\TabbedPageSample\\TabbedPageSample\\TabbedPageSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\varda\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\varda\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\varda\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\varda\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\varda\\.nuget\\packages\\xamarin.forms\\4.7.0.968\\xamarin.forms.4.7.0.968.nupkg.sha512"
+  ],
+  "logs": []
+}
