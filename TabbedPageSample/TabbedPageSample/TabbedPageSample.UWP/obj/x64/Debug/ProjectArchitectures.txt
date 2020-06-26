@@ -1,0 +1,1 @@
+C:\Users\varda\Desktop\TabbedPageIssue\TabbedPageSampleApp\TabbedPageSample\TabbedPageSample\TabbedPageSample.UWP\TabbedPageSample.UWP.csproj;x64

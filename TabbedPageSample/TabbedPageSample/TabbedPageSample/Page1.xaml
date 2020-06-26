@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="TabbedPageSample.Page1"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    BackgroundColor="Beige">
+    <ContentPage.Content>
+        <StackLayout
+            Spacing="25"
+            HorizontalOptions="Center"
+            VerticalOptions="Center">
+            <Label
+                Text="Page 1"
+                FontSize="Large"
+                HorizontalTextAlignment="Center" />
+            <Button
+                Text="Remove Tab 3"
+                Clicked="OnRemoveClicked"
+                CornerRadius="2"
+                TextColor="White"
+                BackgroundColor="Red"
+                WidthRequest="140"
+                HeightRequest="50"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+            <Button
+                Text="Add Tab 3"
+                Clicked="OnAddClicked"
+                CornerRadius="2"
+                TextColor="White"
+                BackgroundColor="Green"
+                WidthRequest="140"
+                HeightRequest="50"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

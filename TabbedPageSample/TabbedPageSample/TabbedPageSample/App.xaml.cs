@@ -1,6 +1,4 @@
-﻿using System;
-using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
+﻿using Xamarin.Forms;
 
 namespace TabbedPageSample
 {
@@ -10,7 +8,7 @@ namespace TabbedPageSample
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new MyTabbedPage());
         }
 
         protected override void OnStart()
